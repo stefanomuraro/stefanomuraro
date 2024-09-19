@@ -1,23 +1,14 @@
-<hr>
-<hr>
+---
 
-![](https://visitor-badge.glitch.me/badge?page_id=stefanomuraro.stefanomuraro)
+# Welcome to my GitHub Profile 👋
 
-### Hi, I'm glad to have you here!<br>
-In this place you can find some projects I've been working on.
+Explore the projects I've been working on and feel free to dive into the code or contribute.
 
-<br>
-<br>
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stefanomuraro&show_icons=true&theme=gotham" alt="Stats" />
-
-<br>
-
-**Contact me:**
-
-<a href="https://www.linkedin.com/in/stefanomuraro/">
-  <img alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
+<a href="https://www.linkedin.com/in/stefanomuraro/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img alt="LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/>
+  <span style="margin-left: 10px;">Connect with me on LinkedIn</span>
 </a>
 
-<hr>
-<hr>
+---
